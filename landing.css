@@ -32,8 +32,8 @@
 }
 #title img {
   position: absolute;
-  top: -27px;
-  left: 270px;;
+  top: -2rem;
+  left: 17.5rem;
   z-index: -1;
 }
 #scroll-down {
@@ -125,7 +125,9 @@ body {
   border: none;
   background-color: #864517;
 }
-
+.buy-now:focus {
+  outline: none;
+}
 
 * {
   font-family: 'Rhodium Libre', serif;
@@ -333,9 +335,10 @@ h2 {
     font-size: 10px;
   }
   #title img {
-    top: -10px;
+
     height: 100px;
-    left: 230px;; 
+    top: -0.9rem;
+    left: 14.5rem;
   }
   .buy-now {
 
@@ -392,9 +395,9 @@ h2 {
     font-size: 4px;
   }
   #title img {
-    top: -10px;
     height: 90px;
-    left: 200px;; 
+    top: -0.9rem;
+    left: 12.7rem;
   }
   .buy-now {
 
@@ -451,9 +454,9 @@ h2 {
     font-size: 3px;
   }
   #title img {
-    top: -15px;
     height: 60px;
-    left: 112px;; 
+    top: -0.9rem;
+    left: 7.5rem;
   }
   .buy-now {
 
@@ -468,6 +471,9 @@ h2 {
   .nav-item {
     font-size: 10px;
     margin-right: 10px;
+  }
+  #nav-item-1 {
+    margin-left: 9.5rem;
   }
   #scroll-down {
     margin-bottom: -20px;
