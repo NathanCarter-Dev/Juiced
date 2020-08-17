@@ -105,6 +105,7 @@ body {
   white-space: initial;
 }
 .title-p {
+  z-index: 5;
   font-size: 36px;
   color: #D87026;
 }
