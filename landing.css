@@ -426,7 +426,7 @@ h2 {
 @media only screen and (max-width: 600px) {
   .juice-selection-buttons {
     transform: scale(0.4 );
-    left: -183px;
+    left: -216px;
     top: 215px;
   }
   #price-container {
@@ -446,17 +446,18 @@ h2 {
   }
   #juice {
     height: 15rem;
+    margin: 0 -2rem;
   }
   h1 {
-    font-size: 40px;
+    font-size: 3rem;
   }
   p {
     font-size: 3px;
   }
   #title img {
     height: 60px;
-    top: -1.1rem;
-    left: 7.6rem;
+    top: -0.7rem;
+    left: 8.8rem;
   }
   .buy-now {
 
@@ -486,6 +487,6 @@ h2 {
 }
 @media only screen and (max-width: 500px) {
   .title-p {
-    font-size: 10px;
+    font-size: 13px;
   }
 }
