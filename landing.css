@@ -468,6 +468,7 @@ h2 {
     margin-top: 1rem;
   }
   .title-p {
+    z-index: 50;
     font-size: 13px;
   }
   .nav-item {
@@ -488,6 +489,7 @@ h2 {
 }
 @media only screen and (max-width: 500px) {
   .title-p {
+    z-index: 50;
     font-size: 10px;
   }
 }
